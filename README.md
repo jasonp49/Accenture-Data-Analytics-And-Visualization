@@ -1,6 +1,6 @@
 # Accenture-Data-Analytics-And-Visualization
 
-Accenture Data Analytics virtual experience project with TheForage. The task was to help a company named "Social Buzz" leverage the use of user data. Social Buzz has reached huge scale in recent years and needs help managing its growth. At Accenture, we have embarked on a 3 month pilot to help tackle their biggest challenges on 3 main tasks:
+Accenture Data Analytics virtual experience project with TheForage. The task was to help a company named "Social Buzz" leverage the use of user data. Social Buzz has reached huge scale in recent years and needs help managing its growth. At Accenture, we began a 3 month trial project to help tackle their biggest challenges on 3 main tasks:
 
 1- Audit of Social Buzz big data practice
 
